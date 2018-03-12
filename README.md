@@ -24,6 +24,6 @@ Take a look at other examples that I have in my own portfolio:
 
 **Spanish Colors Memory Game:** https://github.com/karina001/spanishColorsMemoryGame
 
-**WuTangClan Name Generator:** https://github.com/karina001/WuTangNameGenerator
+**WuTangClan Name Generator:** https://github.com/karina001/toDoList
 
 **Speech Recognition App:** https://github.com/karina001/speechRecognitionApp

@@ -9,15 +9,10 @@ Whenever I start to layout my program and goal with psuedo code, I like to ask m
 
 **Tech used:** HTML, CSS, JavaScript
 
-It always 
- ES6+ and bonus points for it running on a node server
+This app leveraged the simple use of a form and its inputs, to get user information, evaluate this information and return a random string. This app mainly incorporates a lof of Javascript with minimal HTML / CSS. 
 
 ## Optimizations
-When I have more time, I'd like to refactor this code to fit ES6+ standards and make it fullstack using node JS. When I have more time I will go back an adjust the styling to the list to make it look more modern and less retro. I am also planning on making the list full-stack by using Express JS. 
-
-## Lessons Learned:
-In completing this project I learned a lot about built-in browser variables liked Local Storage. I also learned more about the client-server model, when reviewing concepts such as the fact that HTTP is stateless, which causes an application to reset the next time it is re-opened. As a developer, I needed to store the state of your interface somewhere. Although this is normally done on the server-side, I didn't want to force people to sign up to use the app. This is one of the main reasons I decided to leverage local storage.
-
+When I have more time, I'd like to refactor this code to fit ES6+ standards and make it fullstack with node JS.
 
 ## Examples:
 Take a look at other examples that I have in my own portfolio:
